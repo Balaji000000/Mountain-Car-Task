@@ -1,4 +1,4 @@
-# Ex-11: Mountain-Car-Task.
+# Ex-11: Mountain-Car-Task
 
 ## Aim:
 
